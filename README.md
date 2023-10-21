@@ -3,3 +3,4 @@
 # próba böngésző
 # github vs code
 # konfliktus vs code
+# tesztkörnyezet
